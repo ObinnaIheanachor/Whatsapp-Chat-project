@@ -6,5 +6,5 @@ This project uses text data from a Whatsapp group to create a dashboard in **Pow
 
 ## Detailed Tutorial
 
-A detailed tutorial that explains the project from cleaning data in Python to creating dashboards in Power BI can be found [here] (https://resagratia.com/2020/01/visualizing-whatsapp-chats-using-python-and-power-bi/)
+A detailed tutorial that explains the project from cleaning data in Python to creating dashboards in Power BI can be found [here](https://resagratia.com/2020/01/visualizing-whatsapp-chats-using-python-and-power-bi/)
 
